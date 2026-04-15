@@ -10,7 +10,7 @@ Selamat datang di repositori resmi distribusi aplikasi **T-LA (Tracking & Lokasi
 
 Silakan klik tautan di bawah ini untuk menuju halaman unduhan versi terbaru:
 
-### [👉 DOWNLOAD T-LA MOBILE v2.2.0](https://github.com/USERNAME_ANDA/NAMA_REPO_PUBLIK/releases/latest)
+### [👉 DOWNLOAD T-LA MOBILE v2.2.0](https://github.com/rizanto/tela-mobile/releases/latest)
 *(Klik pada file berformat `.apk` di bagian **Assets** pada halaman tersebut)*
 
 ---
