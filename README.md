@@ -10,7 +10,7 @@ Selamat datang di repositori resmi distribusi aplikasi **T-LA (Tracking & Lokasi
 
 Silakan klik tautan di bawah ini untuk menuju halaman unduhan versi terbaru:
 
-### [👉 DOWNLOAD T-LA MOBILE v2.2.0](https://github.com/rizanto/tela-mobile/releases/latest)
+### [👉 DOWNLOAD T-LA MOBILE v2.2.1](https://github.com/rizanto/tela-mobile/releases/latest)
 *(Klik pada file berformat `.apk` di bagian **Assets** pada halaman tersebut)*
 
 ---
@@ -19,12 +19,12 @@ Silakan klik tautan di bawah ini untuk menuju halaman unduhan versi terbaru:
 
 1.  **Unduh File APK:** Klik link di atas dan pilih file APK terbaru.
 2.  **Izinkan Sumber Tidak Dikenal:** Jika muncul peringatan keamanan, buka *Pengaturan* > *Keamanan* > Aktifkan *Instal Aplikasi dari Sumber Tidak Dikenal* (atau izinkan browser Anda untuk menginstal APK).
-3.  **Instal:** Buka file yang telah diunduh dan klik *Instal*.
+3.  **Instal:** Buka file yang telah diunduh dan klik *Install*.
 4.  **Login:** Gunakan kredensial (Username & Password) yang telah diberikan oleh Admin.
 
 ---
 
-## 📑 Catatan Versi (v2.2.0)
+## 📑 Catatan Versi (v2.2.1)
 
 *   **Penyelarasan Kamera:** Sekarang aplikasi mewajibkan pengambilan foto langsung melalui kamera internal T-LA.
 *   **Penghapusan Fitur Galeri:** Untuk menjamin validitas lokasi dan waktu, fitur unggah foto dari galeri telah dinonaktifkan.
